@@ -1,0 +1,12 @@
+COMPLETE HEPA B PROFILE,	2750.00;;
+COMPLETE HEPATITIS PROFILE,	4895.00;;
+HBsAg CONFIRMATORY*,                   	395.00;;
+ANTI-HBC-IgG*,              	484.00;;
+ANTI-HBS*,              	523.00;;
+ANTI-HBC-IgM*,              	517.00;;
+HBeAg*, 	517.00;;
+ANTI-HAV-IgM*,              	600.00;;
+ANTI-HAV-IgG*,              	600.00;;
+Anti-HBe,              	517.00;;
+Anti-HCV,              	880.00;;
+HBsAg ELISA,	600.00;;
